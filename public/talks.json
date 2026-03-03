@@ -1,0 +1,38 @@
+[
+  {
+    "title": "The Future of Artificial Intelligence",
+    "speakers": ["Dr. Evelyn Reed"],
+    "categories": ["AI", "Machine Learning"],
+    "description": "A deep dive into the next generation of AI and its potential impact on society."
+  },
+  {
+    "title": "Quantum Computing: A New Paradigm",
+    "speakers": ["Prof. Samuel Chen", "Dr. Lena Petrova"],
+    "categories": ["Quantum Computing", "Physics"],
+    "description": "Exploring the principles of quantum computing and its applications in solving complex problems."
+  },
+  {
+    "title": "Building Scalable Web Applications",
+    "speakers": ["Jasmine Rodriguez"],
+    "categories": ["Web Development", "Scalability"],
+    "description": "Best practices for designing and building web applications that can handle millions of users."
+  },
+  {
+    "title": "The Ethics of Genetic Engineering",
+    "speakers": ["Dr. Kenji Tanaka"],
+    "categories": ["Bioethics", "Genetics"],
+    "description": "A discussion on the moral and ethical implications of advancements in genetic engineering."
+  },
+  {
+    "title": "Cybersecurity in the Age of IoT",
+    "speakers": ["Maria Garcia"],
+    "categories": ["Cybersecurity", "IoT"],
+    "description": "Strategies for securing the ever-growing number of Internet of Things devices from cyber threats."
+  },
+  {
+    "title": "The Art of Data Visualization",
+    "speakers": ["Ben Carter", "Chloe Davis"],
+    "categories": ["Data Science", "Design"],
+    "description": "Techniques for creating compelling and informative data visualizations."
+  }
+]
